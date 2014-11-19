@@ -8,4 +8,4 @@ The documents can be built into PDFs using the shell script, with the following 
 
 For example:
 
-	> sh make-doc.sh horizon
+	> sh make-doc.sh ABSTRACT-horizon-planning
