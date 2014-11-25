@@ -1,4 +1,4 @@
-% Horizon scanning for urban metabolic flows
+% Forcasting urban metabolism: scanning the horizon of urban processes
 %
 %
 
@@ -23,4 +23,4 @@ If resource consumption patterns are to be changed, we must give consideration t
 - *Management.* Are they supply-side or demand-side technologies?
 - *Scale.* Urban, district or household?
 
-We gather the findings into a database, and present plots which visualise the above characteristics, to show how mixes of technologies might meet resource demand and how that impacts on various resource flows. This knowledge can be used by planners and policy makers to supply data inputs and mathematical formulations into models to assist in design and decision making.
+We gather the findings into a database, and present the impacts each technology would have on metabolic flows (of energy, water and waste), were they to be used to meet resource demand so that we can identify promising processes. This knowledge can be used by planners and policy makers to supply data inputs and mathematical formulations into models to assist in design and decision making.
