@@ -1,8 +1,8 @@
-% Forcasting urban metabolism: scanning the horizon of urban processes
+% Forecasting urban metabolism: a horizon scanning approach
 %
 %
 
-Thomas Ravalde
+Tom Ravalde
 
 *Department of Civil and Environmental Engineering, Imperial College London.*
 
@@ -13,14 +13,8 @@ James Keirstead
 
 # Abstract
 
-Urban areas are at the epicentre of the challenges posed by climate change and resource limitation. On the one hand, they are the great consumers of resources as they serve an increasing proportion of the world's population growth. On the other hand, their density and the co-location of infrastructure enables synergies between resource management processes, where outputs of one process become inputs to another. Thus, applying industrial ecology to the urban scale can help to answer the widespread call to move from linear to circular resource consumption patterns [@Leduc2013].
+We investigate how the overall resource consumption and output of a city is affected by the combination of processes it uses to convert natural resources into useful goods and services. Consider the provision of heating: typically fuel is burned and the heat is carried by water to where it's needed. But there are multiple ways to do this: district heating networks generate heat centrally for a large number of homes, whereas more traditional approaches generate heat in an individual home; in both cases, there is a choice of fuels (such as coal, gas or biomass). Thus the mix of processes a city uses to manage its energy, water and waste will affect the overall resource flows crossing into and out of urban boundaries.
 
-If resource consumption patterns are to be changed, then we must consider the processes that manage those resources. Here we identify the resource conversion, storage and transport processes and technologies that are likely to shape the metabolism of cities between now and 2030. We conduct a systematic literature review to identify the processes and then categorise them according to attributes such as: 
+Our methodology has three steps. First we carry out 'horizon scanning', by systematically searching the literature to identify over 300 processes which manage energy, water and waste. Secondly, for each process, we collect data about the quantity of energy, water and waste they consume or produce. We use this data to formulate black-box mathematical representations of the processes, which we record in a database. Thirdly we analyse the different ways the black-box processes can be combined to meet the demands of a city, and how these combinations consequently shape its overall metabolism.
 
-- *Efficiency.* What are the relative input and output flows of energy, water and waste resources for the process?
-- *City type.* Are the processes applicable to developing areas and/or mature cities?
-- *Management.* Are they supply-side or demand-side technologies?
-- *Scale.* Urban, district or household?
-- *Engineering behaviour.* Can the process be modelled linearly?
-
-We gather the findings into a database, and estimate the impacts that each technology would have on metabolic flows of energy, water and waste for a typical city in a developed country.  The goal is to identify the most promising technologies and processes for particular city types. This knowledge can be used by planners and policy makers to supply data inputs and mathematical formulations into models to assist in design and decision making.
+This study will help identify the most promising resource management processes for given city types (such as developing or mature) with particular goals in mind (such as minimising water consumption or carbon footprint). Our database also provides planners and policy makers with process performance data which can assist in decision making.
