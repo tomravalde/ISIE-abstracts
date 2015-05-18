@@ -1,8 +1,8 @@
-% Measuring the efficiency of urban metabolism
+% Evaluating the performance of urban resource consumption
 %
 %
 
-Thomas Ravalde
+Tom Ravalde
 
 *Department of Civil and Environmental Engineering, Imperial College London*
 
@@ -12,8 +12,8 @@ James Keirstead
 
 # Abstract
 
-Multi-resource (MR) systems are at the heart of socio-economic development processes.  Such systems convert various input resources into useful outputs; and notable examples include energy conversion supply chains, water treatment processes and refineries. However these processes can create significant environmental sustainability challenges due to resource depletion and non-useful/harmful outputs. It is therefore important that we can measure the efficiency of resource consumption in MR systems, which is often done using 'indicators' which quantify environmental or economic performance. 
+A city meets the needs of its inhabitants by appropriating the earth's natural resources and using networks of processes to convert them into useful goods and services. In this work, we evaluate two different approaches to measuring how well a city performs this resource conversion. To meet any given set of population demands (electricity, water, heating, waste management etc.), a range of possible technologies can be used, which in turn affect the city's overall mix of resource inputs and outputs. (For example, heating demand can be met using fossil fuels, biomass, solar energy or other means.) Thus performance measures should help identify the best of many possible system configurations for any given goal.
 
-Of particular interest to assessing the resource consumption of MR systems within industrial ecology is the *multi-resource trade-off problem* (MRTP).  For example, if we replaced one technology within a system with an alternative, which provides the same output but using a different input mix, which configuration would be 'optimal'? Which system is preferred if technology A uses 1 kg of water and 100 J of energy, and technology B uses 2 kg of water and 50 J of energy, in view of specific contextual challenges?
+We single out several performance measures and divide them into two categories: (i) 'black-box' metrics, which are calculated from the resource inputs and outputs crossing the city's boundaries (e.g. carbon footprint); and (ii) 'grey-box', metrics which are calculated from the resource inputs and outputs of a city's individual resource management processes (e.g. exergy analysis).
 
-Urban areas are an important MR system subset, and they face a call to adopt principles of industrial ecology to move from linear to circular resource consumption patterns [@Leduc2013]. Using the 'urban metabolism' framework [@Kennedy2007], we review the literature to describe metrics which can be used to address the MRTP and provide a comprehensive interpretation of 'urban metabolic efficiency'. We categorise the metrics according to (1) whether or not they unify different resources into a single measure; (2) whether they see resources from economic or biophysical perspectives; (3) how easily they can be calculated from an urban metabolism study; and (4) whether they detail the performance of sub-systems within the MR system. We apply these ideas to example urban metabolism data and discuss our findings.
+Using urban metabolism data from @Kennedy2014, we calculate eight black-box metrics for fifteen global megacities and show that performance is poorly correlated between the metrics. This suggests performance assessments should capture the distinctive details about individual processes, to better understand a city's resource consumption. Thus we apply two grey-box approaches, exergy analysis and ecological network analysis, and discuss the insights they reveal. However, relative to black-box methods, grey-box approaches require more data, and are conceptually more complicated. With this in mind, we make two recommendations: first, urban metabolism accounts should be extended to include more information on the resource conversion processes in a city; and second, tools should be developed so these methods can be easily understood and applied by relevant decision makers.
